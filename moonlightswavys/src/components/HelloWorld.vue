@@ -1,9 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      깃허브, 소스트리 연동 완료
-    </p>
+    <p>프로젝트 초기화 완료</p>
+    <p>vuex, router 추가 설치 완료</p>
   </div>
 </template>
 
