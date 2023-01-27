@@ -8,8 +8,13 @@
 </template>
 
 <style>
+@font-face {
+  font-family:'suit';
+  src: url('../src/assets/fonts/SUIT-Regular.ttf');
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: suit,Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

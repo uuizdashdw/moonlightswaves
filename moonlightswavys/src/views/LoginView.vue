@@ -1,6 +1,6 @@
 <template>
-  <div class="login">
-    <p class="inline-block text-white newColor">
+  <div class="login container mx-auto py-20">
+    <p class="newColor font-bold">
       올해의 컬러
     </p>
   </div>
@@ -13,6 +13,6 @@ export default {
 
 <style>
 .newColor {
-  background: #bb2649;
+  color: #bb2649;
 }
 </style>
