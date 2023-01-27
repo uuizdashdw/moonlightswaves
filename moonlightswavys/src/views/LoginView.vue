@@ -1,6 +1,8 @@
 <template>
   <div class="login">
-    로그인
+    <p class="inline-block text-white newColor">
+      올해의 컬러
+    </p>
   </div>
 </template>
 <script>
@@ -10,4 +12,7 @@ export default {
 </script>
 
 <style>
+.newColor {
+  background: #bb2649;
+}
 </style>
